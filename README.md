@@ -15,3 +15,14 @@ When it comes to functionality, this browser reminds us of the classic internet 
 2.	Home page Set up.
 3.	File download and upload.
 4.	Add file to Favourite and Manage Favourite.
+
+
+### System Requirment
+1. java SE 7 or above.
+2. Enviroment Variable Set
+#### For Windows: 
+windows Xp or above
+
+### How to Run
+After installing the Java and finishing the Set-up 
+##### "Run "WebBrowser.java" using Command Prompt and then run "webBrowser" class file.
