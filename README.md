@@ -26,3 +26,14 @@ windows Xp or above
 ### How to Run
 After installing the Java and finishing the Set-up 
 ##### "Run "WebBrowser.java" using Command Prompt and then run "webBrowser" class file.
+
+
+## ScreenShots
+
+#### Home Page
+
+<img src = "Screenshots/1.png" width ="600" height = "600">
+
+#### Favourite Page
+
+<img src = "Screenshots/2.png" width ="600" height = "600">
